@@ -18,7 +18,7 @@ export default function SettingsPage() {
         <div className="space-y-6">
           <OnboardingSettings />
           
-          {/* Additional settings sections can be added here */}
+          {/* Additional settings sections can be added here  */}
           <Card>
             <div className="p-6">
               <h3 className="text-lg font-semibold text-white mb-4">More Settings</h3>
