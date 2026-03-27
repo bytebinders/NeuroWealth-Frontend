@@ -130,7 +130,7 @@ export default function OnboardingFlow({
             </div>
             <h2 className="text-2xl font-bold text-white mb-2">Welcome to NeuroWealth!</h2>
             <p className="text-slate-400 mb-6">
-              You've successfully completed the onboarding process. You're all set to start your investment journey.
+              You&apos;ve successfully completed the onboarding process. You&apos;re all set to start your investment journey.
             </p>
             <div className="space-y-3">
               <Button onClick={onComplete} className="w-full">
