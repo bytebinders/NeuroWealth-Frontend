@@ -1,7 +1,6 @@
 /**
  * UI component barrel exports
  */
-
 export * from "./Badge";
 export * from "./Button";
 export * from "./Card";
@@ -9,8 +8,9 @@ export * from "./EmptyState";
 export * from "./ErrorPage";
 export * from "./Input";
 export * from "./Modal";
+export type { ModalSize } from "./Modal";
 export * from "./Switch";
-
+export { Drawer } from "./Drawer";
 // Skeleton loading components
 export {
   Skeleton,
