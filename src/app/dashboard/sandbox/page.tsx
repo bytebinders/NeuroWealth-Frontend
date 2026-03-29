@@ -226,7 +226,7 @@ export default function SandboxPage() {
             </h3>
             <ul className="list-disc list-inside space-y-1 text-blue-800">
               <li>Select scenarios for each module independently</li>
-              <li>Click "View Module" to see the scenario in action</li>
+              <li>Click &quot;View Module&quot; to see the scenario in action</li>
               <li>Scenarios are saved locally and persist across page refreshes</li>
               <li>Use quick actions to set all modules to the same scenario</li>
               <li>This sandbox is only available in development mode</li>
